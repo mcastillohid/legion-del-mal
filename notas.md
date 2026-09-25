@@ -1,6 +1,6 @@
 ## Notas del proyecto
 
-:rock
+🚀
 
 Este es el primer proyecto
 

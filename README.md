@@ -12,6 +12,7 @@
 
 
 # 🦹‍♂️ La Legión del Mal - Desde local 3
+### Este es curso dedicado a prender github
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_

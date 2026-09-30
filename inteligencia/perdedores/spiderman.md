@@ -6,3 +6,9 @@ Spiderman es un superheroe
 
 Doctor Octopus
 Rick Dekard
+
+# Pelis
+
+Casablanca
+Predator
+Terminator II

@@ -22,7 +22,7 @@ jobs:
               echo "Matedata: ${{ toJson(github) }}"
 
          - name: Capacidades del agente
-           run:
+           run: |
               echo "Capacidades detectadas"
               echo "Sistema operativo"
               uname -a

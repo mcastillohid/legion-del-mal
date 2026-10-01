@@ -36,5 +36,6 @@ jobs:
               cat /etc/passwd
 
          - name: Reconocimiento del terreno
-           run:
+           run: |
+             echo "Reconocimiento del terreno"
              ls /

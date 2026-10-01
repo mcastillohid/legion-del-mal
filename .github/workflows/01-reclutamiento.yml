@@ -9,6 +9,15 @@ jobs:
          
 
          - name: El agente se presenta
+           run: echo "Hola Mundo..."
+
+         - name: Reporte de identidad
            run: |
-              echo "Hola Mundo..."
+              echo "Reporte de idenctidad"
+              echo "====================="
+              echo ""
+              echo "Nombre en clave: ${{ github.actor }}"
+              echo "Repo: ${{ github.repository }}"
+              echo "Operacion: ${{ github.sha }}"
+              echo "Matedata: ${{ toJson(github) }}"
               

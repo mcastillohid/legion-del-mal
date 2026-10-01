@@ -1,0 +1,9 @@
+name: Acceso fortalezas
+
+on: 
+  workflow_dispatch:
+
+jobs:
+   acceso-a-la-base:
+      runs-on: ubuntu-latest
+      steps:
